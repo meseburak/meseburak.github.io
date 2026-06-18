@@ -1,0 +1,53 @@
+ARROW FLOW — meseburak.github.io (app-ads.txt)
+================================================
+
+Bu klasör GitHub Pages kullanıcı sitesi içindir.
+AdMob app-ads.txt doğrulaması için kök dizinde yayınlanır.
+
+Dosyalar:
+  app-ads.txt   → https://meseburak.github.io/app-ads.txt
+  index.html    → https://meseburak.github.io/
+
+GitHub repo adı (zorunlu): meseburak.github.io
+
+ADIM 1 — Repo oluştur
+---------------------
+1. https://github.com/new
+2. Repository name: meseburak.github.io
+3. Public
+4. README ekleme (boş repo)
+5. Create repository
+
+ADIM 2 — Dosyaları yükle
+------------------------
+Bu klasördeki app-ads.txt ve index.html dosyalarını repo köküne yükle.
+Commit: "Add app-ads.txt and developer site"
+
+ADIM 3 — GitHub Pages
+---------------------
+1. Repo → Settings → Pages
+2. Source: Deploy from a branch
+3. Branch: main | Folder: / (root)
+4. Save
+5. 2-10 dakika bekle
+
+ADIM 4 — Test
+-------------
+Tarayıcıda aç:
+  https://meseburak.github.io/app-ads.txt
+
+Şu satır görünmeli:
+  google.com, pub-6475922412547411, DIRECT, f08c47fec0942fa0
+
+ADIM 5 — Google Play
+--------------------
+Mağaza girişi → İletişim bilgileri → Web sitesi:
+  https://meseburak.github.io
+
+Gizlilik politikası URL'si ayrı kalabilir:
+  https://meseburak.github.io/arrow-flow-privacy/
+
+ADIM 6 — AdMob
+--------------
+AdMob → Uygulamalar → Arrow Flow → app-ads.txt → Tara
+Doğrulama birkaç saat sürebilir.
